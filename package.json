@@ -1,0 +1,22 @@
+{
+  "name": "pet-shop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "dev": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@truffle/box": "^2.1.81",
+    "@truffle/contract": "^4.6.31",
+    "chai": "^6.2.2",
+    "chai-as-promised": "^8.0.2",
+    "lite-server": "^2.3.0"
+  }
+}
